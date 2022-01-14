@@ -1,0 +1,38 @@
+
+ul {
+  list-style-type: square; 
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+
+img {
+    border-radius: 15%;
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid #555;
+}
+
+
+h3 {
+    background-color: hsl(60,70%,80%);
+    border: 3px solid #555;
+    font-family: garamond;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #034f20;
+}
+
+body {
+    /*background-color: #b3acd2;*/
+    background-image: url("https://i.stack.imgur.com/jGlzr.png");
+}
